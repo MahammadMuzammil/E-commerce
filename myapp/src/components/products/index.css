@@ -1,0 +1,11 @@
+
+.products-heading{
+    color: #0967d2;
+    font-family: 'Roboto';
+    text-align: center;
+}
+@media(min-width:768px){
+    .products-heading{
+        display: none;
+    }
+}
